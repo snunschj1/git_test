@@ -1,3 +1,3 @@
 def sayhi():
     print("hi")
-    print("CC")    
+    print("CC")
